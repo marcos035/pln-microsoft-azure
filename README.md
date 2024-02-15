@@ -1,4 +1,4 @@
-##  Fundamentos da Pesquisa Visual Computacional 
+## Análise de Texto com o Serviço de Linguagem
 
 desafio [dio.me](dio.me)
 
